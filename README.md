@@ -1,8 +1,8 @@
-# Touch_note
+# Touch_note :bookmark:
 Notes application for android
 
 
-_Features_
+## _Features_
 
 :page_facing_up:**Add note**
  
@@ -12,6 +12,6 @@ _Features_
  
  :mag:**Search**
 
- **Delete**
+ :wastebasket:**Delete**
  
 ### With ascending order it will store note
