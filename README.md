@@ -1,17 +1,17 @@
-# touch_note
+# Touch_note
 Notes application for android
 
 
 _Features_
 
-:page_facing_up:
+:page_facing_up:**Add note**
  
- **Add note**
- 
- :date:**Date and time will be shown**
+ :date: **Date and :clock1: time will be shown**
  
  :pushpin:**Pin/Unpin**
  
+ :mag:**Search**
+
  **Delete**
  
-**Search**
+### With ascending order it will store note
