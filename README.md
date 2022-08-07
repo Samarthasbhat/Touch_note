@@ -16,6 +16,8 @@ Notes application for android
  
 ### With ascending order it will store note
 
+**Icons used from [icons8](https://icons8.com/)**
+
 
 # Results
 <p float="left">
