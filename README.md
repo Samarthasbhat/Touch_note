@@ -15,3 +15,13 @@ Notes application for android
  :wastebasket:**Delete**
  
 ### With ascending order it will store note
+
+
+# Results
+<p float="left">
+  <img src="https://github.com/Samarthasbhat/touch_note/blob/master/s1.png" width="500" />
+  <img src="https://github.com/Samarthasbhat/touch_note/blob/master/s2.png" width="500" /> 
+  <img src="https://github.com/Samarthasbhat/touch_note/blob/master/s3.png" width="500" /> 
+  
+ 
+</p>
